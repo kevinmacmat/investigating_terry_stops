@@ -1,5 +1,3 @@
-# mod_3_classification_project
-
 # Investigating Terry Stops
 This project seeks to investigate Terry Stop data from the Seattle Police Department's Open Data government program from the years 2015 to 2019. Terry Stops derive their origin from the Supreme Court case Terry v. Ohio in which a police officer stopped John Terry on the street, along with two other men, and found two firearms on the men. The officer testified that he used his years of experience as a patrolling officer to judge the mens' reactions which led him to stop them. The Supreme Court ruled that using "probable cause", an officer can stop and frisk a civilian on the street. Using Seattle's Terry Stop data for 28,530 stops I intend to develop an analysis using binary classification to predict whether or not a stop ends in arrest, and to analyze the data in search of any bias when conducting stops and subsequent arrests.
 
